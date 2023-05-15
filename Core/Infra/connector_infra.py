@@ -1,0 +1,1 @@
+#conector com banco para recuperar dados do banco de dados.

@@ -1,0 +1,1 @@
+#responsavel por configuracoes de compilador do projeto
